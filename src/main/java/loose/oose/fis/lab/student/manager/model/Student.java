@@ -1,4 +1,4 @@
-package  loose.oose.fis.lab.student.manager.model;
+package loose.oose.fis.lab.student.manager.model;
 
 public class Student {
     private String firstName;
@@ -6,7 +6,6 @@ public class Student {
     private int age;
     private double meanGrade;
 }
-
 public Student(String firstName, String lastName, int age, double meanGrade) {
     //assignments
 }
